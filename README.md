@@ -182,12 +182,3 @@ Mongoose is used to define schemas and interact with the database.
 
 ---
 
-
-
-
-
-
-
-this u only gave&#x20;
-
-u want me to give my jwt secret in readme??!!
